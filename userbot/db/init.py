@@ -11,7 +11,7 @@ from .. import *
 
 DEVLIST = [
     5331427205,  # @hunter_is_back
-    1322549723,  # @danish_00
+    5388906652,  # @its_helll_boyyy
     1903729401,  # @its_buddhhu
     1303895686,  # @Sipak_OP
     611816596,  # @Arnab431
