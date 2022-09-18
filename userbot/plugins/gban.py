@@ -38,7 +38,7 @@ from telethon.tl.functions.channels import EditAdminRequest
 from telethon.tl.functions.contacts import BlockRequest, UnblockRequest
 from telethon.tl.types import ChatAdminRights, User
 
-from pyUltroid.dB import DEVLIST
+from userbot.dB import DEVLIST
 from pyUltroid.dB.gban_mute_db import (
     gban,
     gmute,
