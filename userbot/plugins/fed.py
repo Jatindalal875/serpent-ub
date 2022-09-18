@@ -66,8 +66,8 @@ async def _(event):
                 await event.edit("**Error:** `unblock` @MissRose_Bot `and try again!")
 
 
-@bot.on(admin_cmd("roseinfo ?(.*)"))
-@bot.on(sudo_cmd("roseinfo ?(.*)", allow_sudo=True))
+@bot.on(admin_cmd("info ?(.*)"))
+@bot.on(sudo_cmd("info ?(.*)", allow_sudo=True))
 async def _(event):
     if event.fwd_from:
         return
@@ -134,8 +134,8 @@ async def _(event):
                 await event.edit("**Error:** `unblock` @MissRose_Bot `and try again!")
 
 
-@bot.on(admin_cmd("myfeds ?(.*)"))
-@bot.on(sudo_cmd("myfeds ?(.*)", allow_sudo=True))
+@bot.on(admin_cmd("feds ?(.*)"))
+@bot.on(sudo_cmd("feds ?(.*)", allow_sudo=True))
 async def _(event):
     if event.fwd_from:
         return
@@ -156,8 +156,8 @@ async def _(event):
             await event.edit("**Error:** `unblock` @MissRose_Bot `and try again!")
 
 
-@bot.on(admin_cmd(pattern=r"plist ?(.*)", outgoing=True))
-@bot.on(sudo_cmd(pattern=r"plist ?(.*)", allow_sudo=True))
+@bot.on(admin_cmd(pattern=r"fsn ?(.*)", outgoing=True))
+@bot.on(sudo_cmd(pattern=r"fsn ?(.*)", allow_sudo=True))
 async def get_users(show):
     await show.delete()
     if not show.text[0].isalpha() and show.text[0] not in ("/"):
@@ -171,18 +171,162 @@ async def get_users(show):
             if not show.pattern_match.group(1):
                 async for user in show.client.iter_participants(show.chat_id):
                     if not user.deleted and user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Porn / Porn Group Member//AntiPornFed #Massban🔞🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Porn / Porn Group Member//AntiPornFed #Massban🔞🛑"
+                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
             else:
                 searchq = show.pattern_match.group(1)
                 async for user in show.client.iter_participants(
                     show.chat_id, search=f"{searchq}"
                 ):
                     if not user.deleted and user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Porn / Porn Group Member//AntiPornFed #Massban🔞🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Porn / Porn Group Member//AntiPornFed #Massban🔞🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
         except ChatAdminRequiredError as err:
             mentions += " " + str(err) + "\n"
         file = open("userslist.csv", "w+")
@@ -196,8 +340,8 @@ async def get_users(show):
         )
 
 
-@bot.on(admin_cmd(pattern=r"blist ?(.*)", outgoing=True))
-@bot.on(sudo_cmd(pattern=r"blist ?(.*)", allow_sudo=True))
+@bot.on(admin_cmd(pattern=r"tfn ?(.*)", outgoing=True))
+@bot.on(sudo_cmd(pattern=r"tfn ?(.*)", allow_sudo=True))
 async def get_users(show):
     await show.delete()
     if not show.text[0].isalpha() and show.text[0] not in ("/"):
@@ -211,18 +355,162 @@ async def get_users(show):
             if not show.pattern_match.group(1):
                 async for user in show.client.iter_participants(show.chat_id):
                     if not user.deleted and user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Suspicious/Btc Scammer/Fraudulent activities #Massban🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Suspicious/Btc Scammer/Fraudulent activities #Massban🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
             else:
                 searchq = show.pattern_match.group(1)
                 async for user in show.client.iter_participants(
                     show.chat_id, search=f"{searchq}"
                 ):
                     if not user.deleted and user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Suspicious/Btc Scammer/Fraudulent activities #Massban🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️Suspicious/Btc Scammer/Fraudulent activities #Massban🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+
+BAN CODES :- 
+
+{TBH×000} - TOXIC
+
+{TBH×001} - SCAMMER
+
+{TBH×006} - PUTTING FAKE ALLEGATIONS
+
+{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+
+{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+
+{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+
+{TBH×025} - ABUSING GIRLS IN DM.
+
+{TBH×026} - ASKING FOR SEX CHAT
+
+Proofs :-
+
+https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+
+https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+
+https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+
+https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+
+OFFICIALLY BANNED BY 
+
+@THE_BROTHERHOOD_COUNCIL 
+
+#FEEL_THE_POWER_OF_BROTHERHOOD 
+
+#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
         except ChatAdminRequiredError as err:
             mentions += " " + str(err) + "\n"
         file = open("userslist.csv", "w+")
@@ -236,45 +524,6 @@ async def get_users(show):
         )
 
 
-@bot.on(admin_cmd(pattern="bgban ?(.*)"))
-@bot.on(sudo_cmd(pattern="bgban ?(.*)", allow_sudo=True))
-async def _(event):
-    if G_BAN_LOGGER_GROUP is None:
-        await event.edit("ENV VAR is not set. This module will not work.")
-        return
-    if event.fwd_from:
-        return
-    reason = event.pattern_match.group(1)
-    if event.reply_to_msg_id:
-        r = await event.get_reply_message()
-        if r.forward:
-            r_sender_id = r.forward.sender_id or r.sender_id
-        else:
-            r_sender_id = r.sender_id
-        await event.client.send_message(
-            G_BAN_LOGGER_GROUP,
-            "/gban [user](tg://user?id={}) {}".format(r_sender_id, reason),
-        )
-    await event.delete()
-
-
-@bot.on(admin_cmd(pattern="bungban ?(.*)"))
-@bot.on(sudo_cmd(pattern="bungban ?(.*)", allow_sudo=True))
-async def _(event):
-    if G_BAN_LOGGER_GROUP is None:
-        await event.edit("ENV VAR is not set. This module will not work.")
-        return
-    if event.fwd_from:
-        return
-    reason = event.pattern_match.group(1)
-    if event.reply_to_msg_id:
-        r = await event.get_reply_message()
-        r_sender_id = r.sender_id
-        await event.client.send_message(
-            G_BAN_LOGGER_GROUP,
-            "/ungban [user](tg://user?id={}) {}".format(r_sender_id, reason),
-        )
-    await event.delete()
 
 
 import asyncio
