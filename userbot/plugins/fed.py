@@ -172,161 +172,157 @@ async def get_users(show):
                 async for user in show.client.iter_participants(show.chat_id):
                     if not user.deleted and user.id != bot.uid:
                         mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
                     elif user.id != bot.uid:
                         mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
             else:
                 searchq = show.pattern_match.group(1)
                 async for user in show.client.iter_participants(
                     show.chat_id, search=f"{searchq}"
                 ):
                     if not user.deleted and user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
+                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
+                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
         except ChatAdminRequiredError as err:
             mentions += " " + str(err) + "\n"
         file = open("userslist.csv", "w+")
@@ -355,162 +351,158 @@ async def get_users(show):
             if not show.pattern_match.group(1):
                 async for user in show.client.iter_participants(show.chat_id):
                     if not user.deleted and user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
+                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
+                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
             else:
                 searchq = show.pattern_match.group(1)
                 async for user in show.client.iter_participants(
                     show.chat_id, search=f"{searchq}"
                 ):
                     if not user.deleted and user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
+                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-
-BAN CODES :- 
-
-{TBH×000} - TOXIC
-
-{TBH×001} - SCAMMER
-
-{TBH×006} - PUTTING FAKE ALLEGATIONS
-
-{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-
-{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-
-{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-
-{TBH×025} - ABUSING GIRLS IN DM.
-
-{TBH×026} - ASKING FOR SEX CHAT
-
-Proofs :-
-
-https://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-
-https://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-
-https://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-
-https://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-
-OFFICIALLY BANNED BY 
-
-@THE_BROTHERHOOD_COUNCIL 
-
-#FEEL_THE_POWER_OF_BROTHERHOOD 
-
-#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🛑"
+                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
+                        \nBAN CODES :- 
+\n
+\n{TBH×000} - TOXIC
+\n
+\n{TBH×001} - SCAMMER
+\n
+\n{TBH×006} - PUTTING FAKE ALLEGATIONS
+\n
+\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
+\n
+\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
+\n
+\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
+\n
+\n{TBH×025} - ABUSING GIRLS IN DM.
+\n
+\n{TBH×026} - ASKING FOR SEX CHAT
+\n
+\nProofs :-
+\n
+\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
+\n
+\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
+\n
+\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
+\n
+\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
+\n
+\nOFFICIALLY BANNED BY 
+\n
+\n@THE_BROTHERHOOD_COUNCIL 
+\n
+\n#FEEL_THE_POWER_OF_BROTHERHOOD 
+\n
+\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
         except ChatAdminRequiredError as err:
             mentions += " " + str(err) + "\n"
         file = open("userslist.csv", "w+")
