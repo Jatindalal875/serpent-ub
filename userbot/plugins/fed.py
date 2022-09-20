@@ -208,42 +208,77 @@ async def get_users(show):
 "\n"
 "\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
                     elif user.id != bot.uid:
-                        mentions += f"\n{user.id},🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW🚫🚫
-                        \nBAN CODES :- 
-\n
-\n{TBH×000} - TOXIC
-\n
-\n{TBH×001} - SCAMMER
-\n
-\n{TBH×006} - PUTTING FAKE ALLEGATIONS
-\n
-\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS
-\n
-\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS
-\n
-\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC.
-\n
-\n{TBH×025} - ABUSING GIRLS IN DM.
-\n
-\n{TBH×026} - ASKING FOR SEX CHAT
-\n
-\nProofs :-
-\n
-\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg
-\n
-\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg
-\n
-\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg
-\n
-\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg
-\n
-\nOFFICIALLY BANNED BY 
-\n
-\n@THE_BROTHERHOOD_COUNCIL 
-\n
-\n#FEEL_THE_POWER_OF_BROTHERHOOD 
-\n
-\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
+                        mentions += f"\n{user.id},⚠️🚫🚫THIS NIGGA IS AN TOXIC. SO NIGGA NOW I WILL REMOVE TOXICITY FROM YOUR SOUL JUST WAIT & WATCH THE SHOW"
+
+                        "\nBAN CODES"
+
+"\n"
+
+"\n{TBH×000} - TOXIC"
+
+"\n"
+
+"\n{TBH×001} - SCAMMER"
+
+"\n"
+
+"\n{TBH×006} - PUTTING FAKE ALLEGATIONS"
+
+"\n"
+
+"\n{TBH×012} - MISUSE OF FEDADMIN RIGHTS/ GIVING FAKE FBANS"
+
+"\n"
+
+"\n{TBH×013} - MAKING FAKE FEDS AND GIVING FAKE FBANS"
+
+"\n"
+
+"\n{TBH×023} - LEAKING PRIVACY PIC NUMBER ETC."
+
+"\n"
+
+"\n{TBH×025} - ABUSING GIRLS IN DM."
+
+"\n"
+
+"\n{TBH×026} - ASKING FOR SEX CHAT"
+
+"\n"
+
+"\nProofs :-"
+
+"\n"
+
+"\nhttps://te.legra.ph/file/5666ffe23b36b0156b9e0.jpg"
+
+"\n"
+
+"\nhttps://te.legra.ph/file/8f8657e28f8014faf261f.jpg"
+
+"\n"
+
+"\nhttps://te.legra.ph/file/b2f3f5f080bcb8e5dd000.jpg"
+
+"\n"
+
+"\nhttps://te.legra.ph/file/5b1631694a5aca0d8a321.jpg"
+
+"\n"
+
+"\nOFFICIALLY BANNED BY "
+
+"\n"
+
+"\n@THE_BROTHERHOOD_COUNCIL "
+
+"\n"
+
+"\n#FEEL_THE_POWER_OF_BROTHERHOOD "
+
+"\n"
+
+"\n#𝐅𝐄𝐄𝐋_𝐓𝐇𝐄_𝐏𝐎𝐖𝐄𝐑_𝐎𝐅_𝐂𝐋𝐀𝐍🔞🛑"
             else:
                 searchq = show.pattern_match.group(1)
                 async for user in show.client.iter_participants(
